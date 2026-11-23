@@ -1,4 +1,4 @@
-# Práctica 6 - API REST de productos
+# Práctica 7 - API de productos con MongoDB
 Derek Montas 2025-0943
 
 ## Cómo ejecutar
